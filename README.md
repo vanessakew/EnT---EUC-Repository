@@ -1,2 +1,2 @@
-# EnT---EUC-Repository
+# EnT-EUC-Repository
 EUC Repository for EnT
